@@ -1,4 +1,4 @@
-const CACHE = 'cattris-v1';
+const CACHE = 'dogtris-v1';
 const FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './privacy.html'];
 
 self.addEventListener('install', e => {

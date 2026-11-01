@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "캣트리스",
-  "short_name": "캣트리스",
-  "description": "고양이 울음소리가 나는 테트리스! 줄을 지울 때마다 냥~ 소리가 납니다.",
+  "name": "독트리스",
+  "short_name": "독트리스",
+  "description": "강아지 소리가 나는 테트리스! 줄을 지울 때마다 멍멍! 소리가 납니다.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
